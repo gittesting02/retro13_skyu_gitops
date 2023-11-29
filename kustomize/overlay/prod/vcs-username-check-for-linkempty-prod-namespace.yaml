@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vcs-username-check-for-linkempty-prod
+  labels:
+    environment-id: env_3d6ad136-d462-4ff3-8af0-f2b0e83b96cd
+    project-id: project_977708b8-486f-4a45-8c64-99dc65c61850
+    project-name: vcs-username-check-for-linkempty
+    environment-name: prod
+    organization-id: org_c2a5c30e-de81-4d82-84d0-8627af8bcc64

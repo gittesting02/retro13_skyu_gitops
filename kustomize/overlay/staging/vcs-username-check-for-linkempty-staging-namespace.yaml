@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vcs-username-check-for-linkempty-staging
+  labels:
+    environment-id: env_c29dbd2d-8414-48cd-afa2-149258978dec
+    project-id: project_977708b8-486f-4a45-8c64-99dc65c61850
+    project-name: vcs-username-check-for-linkempty
+    environment-name: staging
+    organization-id: org_c2a5c30e-de81-4d82-84d0-8627af8bcc64
